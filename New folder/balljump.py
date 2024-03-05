@@ -10,7 +10,7 @@ ball = Actor("car")
 df = Actor("car",(500,350))
 ball.x = 500
 ball.y = 300
-
+x = 10
 speedCar = 0
 ballshotR = False
 ballshotL = False
